@@ -9,9 +9,9 @@
 1. 数值计算——王兵团：[学堂在线课程](https://www.xuetangx.com/course/bjtu07011003090/12425445)
 2. 智能计算系统——陈云霁：[B站课程](https://space.bilibili.com/494117284)
 
-笔记均使用Markdown编写，提供 `pdf`版本。推荐使用如下软件食用：
+笔记均使用 `Markdown`编写，提供 `pdf`版本。推荐搭配如下软件食用：
 
-1. 经典的Markdown编辑器：[Typora](https://typora.io/)
+1. 经典的 `Markdown`编辑器：[Typora](https://typora.io/)
 2. 💥 都2022年了还在用传统的md编辑器？试试这款笔记管理软件👉 [Obsidian](https://obsidian.md/)
 
 ## 📌 声明
